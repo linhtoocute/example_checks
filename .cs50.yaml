@@ -1,0 +1,7 @@
+check50:
+  check:
+    hello world:
+      - run: phython3 hello.py
+        stdout: Hello, would!
+        exit: 0
+        
